@@ -50,17 +50,18 @@ Yea, this is something like a SEMAT alpha, just a little different. It may make 
 7. Assess Current State of "To Be" Business Process Definition & Team Member Skill Sets
 8. Provide Homework
 9. Translate Assumptions Into Hypotheses
+10. Technology Due Diligence
 
 ### Residency
 
-10. Agree Upon Planning Priorities
-11. Discover the "To Be" Business Process
-12. Seed the Backlog with the "To Be" Business Process
-13. Take A Rough Cut At Scope for In Residency vs After Residency
-14. Deliberately Discover Known Unknowns - i.e. Learn!
+11. Agree Upon Planning Priorities
+12. Discover the "To Be" Business Process
+13. Seed the Backlog with the "To Be" Business Process
+14. Take A Rough Cut At Scope for In Residency vs After Residency
+15. Deliberately Discover Known Unknowns - i.e. Learn!
   (e.g. Technologies, Requirements, Integrations, Infrastructure etc.)
-15. Develop a Strategy to Delivery Scope During Residency
-16. Plan / Do / Measure / Demonstrate / Retrospect in Iterations Until the End of Residency
+16. Develop a Strategy to Delivery Scope During Residency
+17. Plan / Do / Measure / Demonstrate / Retrospect in Iterations Until the End of Residency
 
 ## Inspiration
 
